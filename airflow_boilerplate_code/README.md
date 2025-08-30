@@ -1,4 +1,4 @@
-# Advanced Airflow
+# Airflow Boilerplat code fpor development
 
 A collection of Apache Airflow DAGs to illustrate advanced use cases
 and strategies. It's also a sample development environment, allowing
@@ -34,7 +34,7 @@ changes. It will also build your Airflow image.
 ## Access Airflow UI
 
 In order to access Airflow Webserver, follow this link:
-[http://localhost:8080](http://localhost:8080). Default credentials are:
+[http://localhost:8088](http://localhost:8088). Default credentials are:
 
 ```
 Username: airflow
