@@ -1,0 +1,11 @@
+airflow-pentaho-plugin==1.0.7
+apache-airflow-providers-celery
+apache-airflow-providers-common-compat
+apache-airflow-providers-common-io
+apache-airflow-providers-common-sql
+apache-airflow-providers-elasticsearch
+apache-airflow-providers-mysql
+apache-airflow-providers-openlineage
+apache-airflow-providers-postgres
+apache-airflow-providers-smtp
+apache-airflow-providers-standard
