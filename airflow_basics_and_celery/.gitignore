@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Airflow
+logs/
+airflow_logs/
+dags/__pycache__/
+include/__pycache__/
+plugins/__pycache__/
+
+# Envs / tooling
+.venv/
+.env
+.env.*
+.pytest_cache/
+.cache/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
